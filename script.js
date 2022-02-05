@@ -18,3 +18,5 @@ const obj = {
     address: "geleximco",
 }
 console.log(obj)
+console.log(typeof arr)
+console.log(typeof obj)
